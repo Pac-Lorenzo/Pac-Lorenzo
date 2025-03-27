@@ -51,7 +51,9 @@
 </div>
 
 ###
-
+<div>
+  <h4 align="left">Let's Connect</h4>
+</div>
 - [LinkedIn](https://www.linkedin.com/in/pacolorenzo17)
 - Email: plorenzo@villanova.edu
 ###

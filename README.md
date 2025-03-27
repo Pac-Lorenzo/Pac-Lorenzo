@@ -52,7 +52,7 @@
 
 ###
 <div>
-  <h4 align="left">Let's Connect</h4>
+  <h3 align="left">Let's Connect</h3>
 </div>
 - [LinkedIn](https://www.linkedin.com/in/pacolorenzo17)
 - Email: plorenzo@villanova.edu
